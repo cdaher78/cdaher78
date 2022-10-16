@@ -4,7 +4,7 @@ IT infrastructure devices (servers, switches, firewall appliances, routers), vid
 gps, opensource projects and many more.
 - 🌱 I’m currently learning Python, Node.js, shell scripting
 - 💞️ I’m looking to collaborate on data collection and realtime data publishing
-- 📫 How to reach me: charbelgto@gmail.com
+- 📫 How to reach me: cdaher78@protonmail.com
 
 <!---
 cdaher78/cdaher78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
